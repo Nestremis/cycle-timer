@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cycle-timer/static/css/main.b66ade9e.chunk.css",
+    "main.js": "/cycle-timer/static/js/main.55052e6b.chunk.js",
+    "main.js.map": "/cycle-timer/static/js/main.55052e6b.chunk.js.map",
+    "runtime-main.js": "/cycle-timer/static/js/runtime-main.fbb8946a.js",
+    "runtime-main.js.map": "/cycle-timer/static/js/runtime-main.fbb8946a.js.map",
+    "static/js/2.0cd8cc1a.chunk.js": "/cycle-timer/static/js/2.0cd8cc1a.chunk.js",
+    "static/js/2.0cd8cc1a.chunk.js.map": "/cycle-timer/static/js/2.0cd8cc1a.chunk.js.map",
+    "static/js/3.34f3fd99.chunk.js": "/cycle-timer/static/js/3.34f3fd99.chunk.js",
+    "static/js/3.34f3fd99.chunk.js.map": "/cycle-timer/static/js/3.34f3fd99.chunk.js.map",
+    "index.html": "/cycle-timer/index.html",
+    "static/css/main.b66ade9e.chunk.css.map": "/cycle-timer/static/css/main.b66ade9e.chunk.css.map",
+    "static/js/2.0cd8cc1a.chunk.js.LICENSE.txt": "/cycle-timer/static/js/2.0cd8cc1a.chunk.js.LICENSE.txt",
+    "static/js/3.34f3fd99.chunk.js.LICENSE.txt": "/cycle-timer/static/js/3.34f3fd99.chunk.js.LICENSE.txt",
+    "static/media/bell-ring.57d5e004.mp3": "/cycle-timer/static/media/bell-ring.57d5e004.mp3",
+    "static/media/glass-clink-1.9caa9177.mp3": "/cycle-timer/static/media/glass-clink-1.9caa9177.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbb8946a.js",
+    "static/js/2.0cd8cc1a.chunk.js",
+    "static/css/main.b66ade9e.chunk.css",
+    "static/js/main.55052e6b.chunk.js"
+  ]
+}
