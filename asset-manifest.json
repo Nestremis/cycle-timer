@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cycle-timer/static/css/main.af43f2a3.chunk.css",
+    "main.css": "/cycle-timer/static/css/main.77d7aed7.chunk.css",
     "main.js": "/cycle-timer/static/js/main.aab48d45.chunk.js",
     "main.js.map": "/cycle-timer/static/js/main.aab48d45.chunk.js.map",
     "runtime-main.js": "/cycle-timer/static/js/runtime-main.fbb8946a.js",
@@ -10,7 +10,7 @@
     "static/js/3.34f3fd99.chunk.js": "/cycle-timer/static/js/3.34f3fd99.chunk.js",
     "static/js/3.34f3fd99.chunk.js.map": "/cycle-timer/static/js/3.34f3fd99.chunk.js.map",
     "index.html": "/cycle-timer/index.html",
-    "static/css/main.af43f2a3.chunk.css.map": "/cycle-timer/static/css/main.af43f2a3.chunk.css.map",
+    "static/css/main.77d7aed7.chunk.css.map": "/cycle-timer/static/css/main.77d7aed7.chunk.css.map",
     "static/js/2.0cd8cc1a.chunk.js.LICENSE.txt": "/cycle-timer/static/js/2.0cd8cc1a.chunk.js.LICENSE.txt",
     "static/js/3.34f3fd99.chunk.js.LICENSE.txt": "/cycle-timer/static/js/3.34f3fd99.chunk.js.LICENSE.txt",
     "static/media/bell-ring.57d5e004.mp3": "/cycle-timer/static/media/bell-ring.57d5e004.mp3",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.fbb8946a.js",
     "static/js/2.0cd8cc1a.chunk.js",
-    "static/css/main.af43f2a3.chunk.css",
+    "static/css/main.77d7aed7.chunk.css",
     "static/js/main.aab48d45.chunk.js"
   ]
 }
